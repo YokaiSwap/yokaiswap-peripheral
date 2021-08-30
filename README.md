@@ -55,3 +55,7 @@ Then compile and deploy.
 yarn compile
 yarn deploy
 ```
+
+---
+
+forked from [pancakeswap/pancake-swap-periphery](https://github.com/pancakeswap/pancake-swap-periphery)
